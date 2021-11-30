@@ -1,0 +1,184 @@
+name,iso_a2,iso_a3,continent,continent_code,population,remark
+Fiji,FJ,FJI,Oceania,OC,920938,-
+Tanzania,TZ,TZA,Africa,AF,53950935,-
+Western Sahara,WH,ESH,Africa,AF,603253,-
+Canada,CA,CAN,North America,NA,35623680,-
+United States of America,US,USA,North America,NA,326625791,duplicate
+United States Of America,US,USA,North America,NA,326625791,duplicate
+United States,US,USA,North America,NA,326625791,duplicate
+Kazakhstan,KZ,KAZ,Asia,AS,18556698,-
+Uzbekistan,UZ,UZB,Asia,AS,29748859,-
+Indonesia,ID,IDN,Asia,AS,260580739,-
+Argentina,AR,ARG,South America,SA,44293293,-
+Chile,CL,CHL,South America,SA,17789267,-
+Hong Kong,HK,HKG,Asia,SA,7482000,part
+Macao,MO,MAC,Asia,AS,649342,part
+Somalia,SO,SOM,Africa,AF,7531386,-
+Kenya,KE,KEN,Africa,AF,47615739,-
+Sudan,SD,SDN,Africa,AF,37345935,-
+Chad,TD,TCD,Africa,AF,12075985,-
+Haiti,HT,HTI,North America,NA,10646714,-
+Dominican Republic,DO,DOM,North America,NA,10734247,-
+Russia,RU,RUS,Europe,EU,142257519,-
+Bahamas,BS,BHS,North America,NA,329988,-
+Falkland Islands,FK,FLK,South America,SA,2931,-
+Norway,NO,NOR,Europe,EU,5320045,-
+Greenland,GL,GRL,North America,NA,57713,-
+Antarctica,AQ,ATA,Seven seas,-,140,-
+Timor-Leste,TL,TLS,Asia,AS,1291358,-
+South Africa,ZA,ZAF,Africa,AF,54841552,-
+Lesotho,LS,LSO,Africa,AF,1958042,-
+Mexico,MX,MEX,North America,NA,124574795,-
+Cayman Islands,KY,CYM,-,-,65720,part
+Uruguay,UY,URY,South America,SA,3360148,-
+Maldives,MV,MDV,Asia,AS,540542,-
+Brazil,BR,BRA,South America,SA,207353391,-
+Bolivia,BO,BOL,South America,SA,11138234,-
+Peru,PE,PER,South America,SA,31036656,-
+Colombia,CO,COL,South America,SA,47698524,-
+Panama,PA,PAN,North America,NA,3753142,-
+Costa Rica,CR,CRI,North America,NA,4930258,-
+Nicaragua,NI,NIC,North America,NA,6025951,-
+Honduras,HN,HND,North America,NA,9038741,-
+El Salvador,SV,SLV,North America,NA,6172011,-
+Guatemala,GT,GTM,North America,NA,15460732,-
+Belize,BZ,BLZ,North America,NA,360346,-
+Venezuela,VE,VEN,South America,SA,31304016,-
+Guyana,GY,GUY,South America,SA,737718,-
+Suriname,SR,SUR,South America,SA,591919,-
+France,FR,FRA,Europe,EU,67106161,-
+Ecuador,EC,ECU,South America,SA,16290913,-
+Puerto Rico,PR,PRI,North America,NA,3351827,-
+Jamaica,JM,JAM,North America,NA,2990561,-
+Cuba,CU,CUB,North America,NA,11147407,-
+Zimbabwe,ZW,ZWE,Africa,AF,13805084,-
+Botswana,BW,BWA,Africa,AF,2214858,-
+Namibia,NA,NAM,Africa,AF,2484780,-
+Senegal,SN,SEN,Africa,AF,14668522,-
+Mali,ML,MLI,Africa,AF,17885245,-
+Mauritania,MR,MRT,Africa,AF,3758571,-
+Benin,BJ,BEN,Africa,AF,11038805,-
+Niger,NE,NER,Africa,AF,19245344,-
+Nigeria,NG,NGA,Africa,AF,190632261,-
+Cameroon,CM,CMR,Africa,AF,24994885,-
+Togo,TG,TGO,Africa,AF,7965055,-
+Ghana,GH,GHA,Africa,AF,27499924,-
+Cote d'Ivoire,CI,CIV,Africa,AF,24184810,-
+Guinea,GN,GIN,Africa,AF,12413867,-
+Papua New Guinea,PG,PNG,Asia,AS,8947000,-
+Guinea-Bissau,GW,GNB,Africa,AF,1792338,-
+Liberia,LR,LBR,Africa,AF,4689021,-
+Sierra Leone,SL,SLE,Africa,AF,6163195,-
+Burkina Faso,BF,BFA,Africa,AF,20107509,-
+Central African Republic,CF,CAF,Africa,AF,5625118,-
+Congo,CG,COG,Africa,AF,4954674,-
+Gabon,GA,GAB,Africa,AF,1772255,-
+Equatorial Guinea,GQ,GNQ,Africa,AF,778358,-
+Zambia,ZM,ZMB,Africa,AF,15972000,-
+Malawi,MW,MWI,Africa,AF,19196246,-
+Mozambique,MZ,MOZ,Africa,AF,26573706,-
+Eswatini,SWZ,SWZ,Africa,AF,1467152,-
+Angola,AO,AGO,Africa,AF,29310273,-
+Burundi,BI,BDI,Africa,AF,11466756,-
+Israel,IL,ISR,Asia,AS,8299706,-
+Lebanon,LB,LBN,Asia,AS,6229794,-
+Madagascar,MG,MDG,Africa,AF,25054161,-
+Palestine,PS,PSE,Asia,AS,4543126,-
+Gambia,GM,GMB,Africa,AF,2051363,-
+Tunisia,TN,TUN,Africa,AF,11403800,-
+Algeria,DZ,DZA,Africa,AF,40969443,-
+Jordan,JO,JOR,Asia,AS,10248069,-
+United Arab Emirates,AE,ARE,Asia,AS,6072475,-
+Qatar,QA,QAT,Asia,AS,2314307,-
+Kuwait,KW,KWT,Asia,AS,2875422,-
+Iraq,IQ,IRQ,Asia,AS,39192111,-
+Oman,OM,OMN,Asia,AS,3424386,-
+Vanuatu,VU,VUT,Oceania,OC,282814,-
+Cambodia,KH,KHM,Asia,AS,16204486,-
+Thailand,TH,THA,Asia,AS,68414135,-
+Laos,LA,LAO,Asia,AS,7126706,-
+Myanmar,MM,MMR,Asia,AS,55123814,-
+Vietnam,VN,VNM,Asia,AS,96160163,-
+North Korea,KP,PRK,Asia,AS,25248140,-
+South Korea,KR,KOR,Asia,AS,51181299,-
+Korea,KR,KOR,Asia,AS,51181299,duplicate
+Mongolia,MN,MNG,Asia,AS,3068243,-
+India,IN,IND,Asia,AS,1281935911,-
+Bangladesh,BD,BGD,Asia,AS,157826578,-
+Bhutan,BT,BTN,Asia,AS,758288,-
+Nepal,NP,NPL,Asia,AS,29384297,-
+Pakistan,PK,PAK,Asia,AS,204924861,-
+Afghanistan,AF,AFG,Asia,AS,34124811,-
+Tajikistan,TJ,TJK,Asia,AS,8468555,-
+Kyrgyzstan,KG,KGZ,Asia,AS,5789122,-
+Turkmenistan,TM,TKM,Asia,AS,5351277,-
+Iran,IR,IRN,Asia,AS,82021564,-
+Syria,SY,SYR,Asia,AS,18028549,-
+Armenia,AM,ARM,Asia,AS,3045191,-
+Sweden,SE,SWE,Europe,EU,9960487,-
+Belarus,BY,BLR,Europe,EU,9549747,-
+Ukraine,UA,UKR,Europe,EU,44033874,-
+Poland,PL,POL,Europe,EU,38476269,-
+Austria,AT,AUT,Europe,EU,8754413,-
+Hungary,HU,HUN,Europe,EU,9850845,-
+Moldova,MD,MDA,Europe,EU,3474121,-
+Romania,RO,ROU,Europe,EU,21529967,-
+Lithuania,LT,LTU,Europe,EU,2823859,-
+Latvia,LV,LVA,Europe,EU,1944643,-
+Estonia,EE,EST,Europe,EU,1251581,-
+Germany,DE,DEU,Europe,EU,80594017,-
+Bulgaria,BG,BGR,Europe,EU,7101510,-
+Greece,GR,GRC,Europe,EU,10768477,-
+Turkey,TR,TUR,Asia,AS,80845215,-
+Albania,AL,ALB,Europe,EU,3047987,-
+Croatia,HR,HRV,Europe,EU,4292095,-
+Switzerland,CH,CHE,Europe,EU,8236303,-
+Luxembourg,LU,LUX,Europe,EU,594130,-
+Belgium,BE,BEL,Europe,EU,11491346,-
+Netherlands,NL,NLD,Europe,EU,17084719,-
+Portugal,PT,PRT,Europe,EU,10839514,-
+Spain,ES,ESP,Europe,EU,48958159,-
+Ireland,IE,IRL,Europe,EU,5011102,-
+New Caledonia,NC,NCL,Oceania,OC,279070,-
+Solomon Islands,SB,SLB,Oceania,-,647581,-
+New Zealand,NZ,NZL,Oceania,OC,4510327,-
+Australia,AU,AUS,Oceania,OC,23232413,-
+Sri Lanka,LK,LKA,Asia,AS,22409381,-
+China,CN,CHN,Asia,AS,1379302771,-
+Singapore,SG,SGP,Asia,AS,5686000,-
+Taiwan,TW,TWN,Asia,AS,23508428,part
+Italy,IT,ITA,Europe,EU,62137802,-
+Denmark,DK,DNK,Europe,EU,5605948,-
+United Kingdom,GB,GBR,Europe,EU,64769452,-
+Iceland,IS,ISL,Europe,EU,339747,-
+Azerbaijan,AZ,AZE,Asia,AS,9961396,-
+Georgia,GE,GEO,Asia,AS,4926330,-
+Philippines,PH,PHL,Asia,AS,104256076,-
+Malaysia,MY,MYS,Asia,AS,31381992,-
+Brunei,BN,BRN,Asia,AS,443593,-
+Slovenia,SI,SVN,Europe,EU,1972126,-
+Finland,FI,FIN,Europe,EU,5491218,-
+Slovakia,SK,SVK,Europe,EU,5445829,-
+Czechia,CZ,CZE,Europe,EU,10674723,-
+Czech,CZ,CZE,Europe,EU,10674723,duplicate
+Czech Republic,CZ,CZE,Europe,EU,10674724,duplicate
+Eritrea,ER,ERI,Africa,AF,5918919,-
+Japan,JP,JPN,Asia,AS,126451398,-
+Paraguay,PY,PRY,South America,SA,6943739,-
+Yemen,YE,YEM,Asia,AS,28036829,-
+Saudi Arabia,SA,SAU,Asia,AS,28571770,-
+Cyprus,CY,CYP,Asia,AS,1221549,-
+Morocco,MA,MAR,Africa,AF,33986655,-
+Egypt,EG,EGY,Africa,AF,97041072,-
+Libya,LY,LBY,Africa,AF,6653210,-
+Ethiopia,ET,ETH,Africa,AF,105350020,-
+Djibouti,DJ,DJI,Africa,AF,865267,-
+Uganda,UG,UGA,Africa,AF,39570125,-
+Rwanda,RW,RWA,Africa,AF,11901484,-
+Bosnia and Herzegovina,BA,BIH,Europe,EU,3856181,-
+Macedonia,MK,MKD,Europe,EU,2103721,-
+Serbia,RS,SRB,Europe,EU,7111024,-
+Montenegro,ME,MNE,Europe,EU,642550,-
+Kosovo,-,-,-,-,1895250,-
+Trinidad and Tobago,TT,TTO,North America,NA,1218208,-
+South Sudan,SS,SSD,Africa,AF,13026129,-
